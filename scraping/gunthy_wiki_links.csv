@@ -1,0 +1,96 @@
+titles, urls
+Purchasing Gunbot, https://gunthy.org/resellers
+Charts & results, https://wiki.gunthy.org/how-to-work-with-gunbot/chart-results
+Alerts, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/alerts
+Backtesting add-on, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/backtesting
+Code editor, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/code-editor
+IMAP listener, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/imap-listener
+Tradingview add-on, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/tradingview-alerts
+Tradingview webhooks, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/tradingview-webhooks
+2FA, https://wiki.gunthy.org/setup-and-general-settings/global-settings/2FA
+Connect exchange, https://wiki.gunthy.org/setup-and-general-settings/global-settings/connect-exchange
+Edit license, https://wiki.gunthy.org/setup-and-general-settings/global-settings/edit-license
+Export settings, https://wiki.gunthy.org/setup-and-general-settings/global-settings/export-settings
+Import settings, https://wiki.gunthy.org/setup-and-general-settings/global-settings/import-settings
+Simulator, https://wiki.gunthy.org/setup-and-general-settings/global-settings/simulator
+Telegram notifications, https://wiki.gunthy.org/setup-and-general-settings/global-settings/telegram-notifications
+Tournament, https://wiki.gunthy.org/setup-and-general-settings/global-settings/tournament
+Various settings, https://wiki.gunthy.org/setup-and-general-settings/global-settings/various-settings
+Balance settings, https://wiki.gunthy.org/trading-strategy-options/balance-settings
+Confirming indicators, https://wiki.gunthy.org/trading-strategy-options/confirming-indicators
+Custom strategies, https://wiki.gunthy.org/trading-strategy-options/custom-strategies
+Dollar Cost Avg (DCA), https://wiki.gunthy.org/trading-strategy-options/dca
+adx, https://wiki.gunthy.org/trading-strategy-options/futures/adx
+atrts, https://wiki.gunthy.org/trading-strategy-options/futures/atrts
+bb, https://wiki.gunthy.org/trading-strategy-options/futures/bb
+bbta, https://wiki.gunthy.org/trading-strategy-options/futures/bbta
+emaspread, https://wiki.gunthy.org/trading-strategy-options/futures/emaspread
+futuresgrid, https://wiki.gunthy.org/trading-strategy-options/futures/futuresgrid
+gain, https://wiki.gunthy.org/trading-strategy-options/futures/gain
+ichimoku, https://wiki.gunthy.org/trading-strategy-options/futures/ichimoku
+macd, https://wiki.gunthy.org/trading-strategy-options/futures/macd
+macdh, https://wiki.gunthy.org/trading-strategy-options/futures/macdh
+pp, https://wiki.gunthy.org/trading-strategy-options/futures/pp
+sgsfutures, https://wiki.gunthy.org/trading-strategy-options/futures/sgsfutures
+smacross, https://wiki.gunthy.org/trading-strategy-options/futures/smacross
+stepgain, https://wiki.gunthy.org/trading-strategy-options/futures/stepgain
+stepgridhedge, https://wiki.gunthy.org/trading-strategy-options/futures/stepgridhedge
+tenkan, https://wiki.gunthy.org/trading-strategy-options/futures/tenkan
+tsa, https://wiki.gunthy.org/trading-strategy-options/futures/tsa
+tssl, https://wiki.gunthy.org/trading-strategy-options/futures/tssl
+Misc settings, https://wiki.gunthy.org/trading-strategy-options/misc
+Reversal Trading (RT), https://wiki.gunthy.org/trading-strategy-options/rt
+macdh, https://wiki.gunthy.org/trading-strategy-options/spot/macdh
+pp, https://wiki.gunthy.org/trading-strategy-options/spot/pp
+smacross, https://wiki.gunthy.org/trading-strategy-options/spot/smacross
+spotgrid, https://wiki.gunthy.org/trading-strategy-options/spot/spotgrid
+spotgridadvanced, https://wiki.gunthy.org/trading-strategy-options/spot/spotgridadvanced
+stepgain, https://wiki.gunthy.org/trading-strategy-options/spot/stepgain
+stepgrid, https://wiki.gunthy.org/trading-strategy-options/spot/stepgrid
+stepgridhybrid, https://wiki.gunthy.org/trading-strategy-options/spot/stepgridhybrid
+stepgridscalp, https://wiki.gunthy.org/trading-strategy-options/spot/stepgridscalp
+supportresistance, https://wiki.gunthy.org/trading-strategy-options/spot/supportresistance
+tsa, https://wiki.gunthy.org/trading-strategy-options/spot/tsa
+tssl, https://wiki.gunthy.org/trading-strategy-options/spot/tssl
+TrailMe, https://wiki.gunthy.org/trading-strategy-options/trailme
+Bot does not trade, https://wiki.gunthy.org/troubleshooting/bot-does-not-trade
+Reset password, https://wiki.gunthy.org/troubleshooting/reset-password
+Restore backup, https://wiki.gunthy.org/troubleshooting/restore-backup
+Backups, https://wiki.gunthy.org/various/backups
+Handling bags, https://wiki.gunthy.org/various/handling-bags
+Logs, https://wiki.gunthy.org/various/logs
+Archive, https://wiki.gunthy.org/about/changelog/changelog-archive
+New in latest version, https://wiki.gunthy.org/about/changelog/latest
+Supported exchanges, https://wiki.gunthy.org/about/supported-exchanges/
+Creating API keys, https://wiki.gunthy.org/about/supported-exchanges/create-api
+How to create a wallet, https://wiki.gunthy.org/about/system-requirements/create-wallet
+Requirements & license info, https://wiki.gunthy.org/about/system-requirements/license-info
+Config marketplace, https://wiki.gunthy.org/config-marketplace
+AutoConfig, https://wiki.gunthy.org/how-to-work-with-gunbot/extra-modules/autoconfig
+Balance settings, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/balance-settings
+Order types, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/order-types
+Period, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/period
+ROE trailing, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/roe-trailing
+Trading logic, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/trading-logic
+Trailing, https://wiki.gunthy.org/how-to-work-with-gunbot/learning-the-basics/trailing
+Trading settings, https://wiki.gunthy.org/how-to-work-with-gunbot/trading-settings
+Quickstart guide ⏱️, https://wiki.gunthy.org/quickstart
+ARM installation, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/arm
+Download, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/download
+Headless mode, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/headless
+Linux installation, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/linux
+macOS installation, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/macos
+Multiple instances, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/multiple-instance
+How to enable SSL/TLS, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/ssl
+Windows installation, https://wiki.gunthy.org/setup-and-general-settings/installation-and-startup/windows
+About Gunbot strategies, https://wiki.gunthy.org/trading-strategy-options/about-gunbot-strategies
+adx, https://wiki.gunthy.org/trading-strategy-options/spot/adx
+atrts, https://wiki.gunthy.org/trading-strategy-options/spot/atrts
+bb, https://wiki.gunthy.org/trading-strategy-options/spot/bb
+bbta, https://wiki.gunthy.org/trading-strategy-options/spot/bbta
+emaspread, https://wiki.gunthy.org/trading-strategy-options/spot/emaspread
+emotionless, https://wiki.gunthy.org/trading-strategy-options/spot/emotionless
+gain, https://wiki.gunthy.org/trading-strategy-options/spot/gain
+ichimoku, https://wiki.gunthy.org/trading-strategy-options/spot/ichimoku
+Critical errors, https://wiki.gunthy.org/troubleshooting/critical-errors
+Acronyms, https://wiki.gunthy.org/various/acronyms

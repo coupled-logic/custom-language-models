@@ -1,0 +1,255 @@
+[
+	{
+		"artistic styles" : [
+			"Create a English NNN-word description on the topic: 'TEXT'",
+			"Examples:",
+			"cyborg woman| with a visible detailed brain| muscles cable wires| detailed cyberpunk background with neon lights| biopunk| cybernetic| unreal engine| CGI | ultra detailed| 4k",
+			"video games icons, 2d icons, rpg skills icons, world of warcraft items icons, league of legends items icons, ability icon, fantasy, potions, spells, objects, flowers, gems, swords, axe, hammer, fire, ice, arcane, shiny object, graphic design, high contrast, artstation - -uplight --v 4",
+			"2 warrior princesses fight, Dynamic pose; Artgerm, Wlop, Greg Rutkowski; the perfect mix of Emily Ratajkowski, Ana de Armas, Kate Beckinsale, Kelly Brook and Adriana Lima as warrior princess; high detailed tanned skin; beautiful long hair, intricately detailed eyes; druidic leather vest; wielding an Axe; Attractive; Flames in background; Lumen Global Illumination, Lord of the Rings, Game of Thrones, Hyper-Realistic, Hyper-Detailed, 8k, --no watermarks --no cape --testp --ar 9:16 --v 4 --upbeta",
+			"highly detailed matte painting stylized three quarters portrait of an anthropomorphic rugged happy fox with sunglasses! head animal person, background blur bokeh! ! ; by studio ghibli, makoto shinkai, by artgerm, by wlop, by greg rutkowski --v 4",
+			"a photo of 8k ultra realistic archangel with 6 wings, full body, intricate purple and blue neon armor, ornate, cinematic lighting, trending on artstation, 4k, hyperrealistic, focused, high details, unreal engine 5, cinematic --ar 9:16 --s 1250 --q 2",
+			"helldog, cerberus, red dog, big dog, 3 heads, rotten skin, background gate of hell, background hell, character design, side view, full body view, full body, aggressive stil, mythic still, unreal engine, hyper-detailed",
+			"faeries in a bubble gum world , cinematic view, cinematic lighting, HD, 8k, unreal engine 5, full realistic, landscape, octane, high details, unreal engine 5, octane render, cryengine, volumetric lighting, cinematic, mood, dust, particles, particle effect, atmosphere, ray tracing, uhd, lighting rendered in Unreal Engine 5 and Cinema4k, Diffraction Grating, Ray Tracing Ambient Occlusion, Antialiasing, GLSL-Shaders, Post Process, Post Production, Cell Shading, Tone Mapping, photorealistic --v 4",
+			"bronze metal raven, magical automaton, intricate details --v 4",
+			"person = barbara palvin as undead necromancer lich. looks =dark straight hair, feminine figure, gorgeous, pretty face,beautiful body, wings, beautiful symmetrical glowing red eyes, two beautiful smooth silky legs:: pose = arms around body, Dragon with Massive Wings spread completely behind back:: shape = dance pose, curvy body, anatomically correct and fully showing symmetrical female chest, anatomically correct female torso and belly button, complete smooth pretty human arms and fingers, symmetrical face. clothing = revealing outfit, A pair of wearing a ivory breastplate and full-body-jewelry harness made from ice jewels :: environment = cemetary with frost aura ::details = highly detailed clothing,clear face that is fully shown, hyper quality style, top shelf jewelry with jewel arrays = dark fantasy, realistic, full female-body shot, both lower and, upper lips are completely down in clear detail, 3d printed:: artist = cgsociety, artgerm, trending on artstation, by victor titov. --video --s 3250 --seed 909101793 --ar 10:18 --q 1.5 --no amputees --no blur DOF --no fractals --v 3",
+			"two lovers as neural networks embracing, beautiful, intricate details, cinematic lighting, beautiful concept art, surreal, art station",
+			"realistic photograph of police nousr robot in modern city, cyberpunk, character design, detailed face, highly detailed, intricate details, symmetrical, smooth, digital 3d, hard surface, mechanical design, real-time, vfx, ultra hd, hdr",
+			"After you create a description (not included in the word limit):",
+			"If in the description that you created a landscape described, then add 'landscape, many details, a lot of detail' at the end.",
+			"If the description you created describes a portrait then add 'focused, blured background, body, portret' to the end.",
+			"If the description you created describes a full-length person, then add 'full-body, legs, arms' to the end.",
+			"If you are describing things that can have reflections, then add 'reflection'.",
+			"Always! Add at the end one of the types of lighting that suits better to the end  in format: 'Lighting: '. Here is the list: Spot Lighting, Rear light, Dark Light, Blinding Light, Candle Light, Concentrated Lighting, Twilight, Sunshine, Sunset, Lamp, Electric Arc, Moonlight, Neon Light, Night Light, Nuclear Light, Cinematic Light or similar.",
+			"Always! Add one of the styles that fits better to the end in format: 'Style: '. Here is the list: Fantasy, Dark Fantasy, Abstraction, Ethereal, Weirdcore, Dreampunk, Daydreampunk, Science, Surrealism, Unrealistic, Surreal, Realistic, Photorealism, Classic, Retro, Retrowave, Vintage, Cyberpunk, Punk, Modern, Futuristic, Sci-fi, Alchemy, Alien, Aurora, Magic, Mystic, Marvel Comics, Anime, Cartoon, Manga, Kawaii, Pastel, Neon, Aesthetic, Miniature.",
+			"Very desirable. If some lighting suits the im.",
+			"After the description, a more suitable style and type of lighting should always be written.",
+			"Always! Add 5 additional parameters in the format: 'Details: ',. Here is a list of possible:: mood, dust, particles, particle effect, atmosphere, ray tracing, uhd, lighting, Diffraction Grating, Ray Tracing Ambient Occlusion, Antialiasing, GLSL-Shaders, Post Process, Post Production, Cell Shading, Tone Mapping and similar and any similar ones that will add the atmosphere to the description.",
+			"At the end it should be like this: 'A Victorian-style chair with chrome and ornate decorations reflects a distorted image in the water on the ground. The intricate patterns on the chair add an air of sophistication and elegance to any room. Lighting: Candle Light. Style: Victorian. Details: Cell Shading, atmosphere, ray tracing."
+		]
+	}
+	},
+{
+  "outline and context": [
+    "V5 is a Text-to-image generator that works on a natural language understanding model.",
+    "Prompting in V5:",
+    "V5 works in a similar fashion to other text-to-image generators such as Stable Diffusion and DALL-E, using worded prompt descriptors to create images, as per the model, which is trained using human-made art as a reference. But V5 works on a natural language understanding similar to GPT-4.",
+    "The words in V5 prompts are crucial. Users need to prompt what they want to see, specifying artist names, media sources, or art styles to get desired results. Be descriptive in natural language about what you want. V5 is more sensitive to precise wording. That includes adjectives and prepositions like “in front of [x]“, and “taken by [camera name]“.",
+    "Write a longer prompts for V5. The longer the better. Be as detailed as possible.",
+    "If you simply describe the scene in your imagination, the default style with tend towards realism.",
+    "As photographers and painters know, light has a huge effect on the final impression an image creates. Specify lighting conditions. Describe the type of light you want to see and the time of day it is. You don’t need complex vocabulary."
+    ],
+  "V5 prompts and completions": {
+    "example 1": "medium-full shot of an elderly french woman with deep wrinkles and a warm smile and eyeglasses, sitting in a charming cafe with plants in the background, looking at the window, wearing a pastel linen blazer with a floral print, natural afternoon light shining through the windows, shot on Agfa Vista 200, side-angle view, 4k",
+    "example 2": "complex hyperdetailed render of a beautiful death dot matrixcore, biomechanical cyborg, analog, 150 mm lens, beautiful natural soft rim light, big leaves and stems, roots, fine foliage lace, colorful details, samourai, Boris Bidjan Saberi outfit, pearl earrings]::1.5 [art nouveau high fashion, intricate details, mesh wires, mandelbrot fractal, anatomical, facial muscles, cable wires, microchip, badass, flat palette]::1.8 hyper realistic, ultra detailed, octane render, volumetric lighting, 8k post-production, red and white with a bit of black, detailed metalic bones, semi human, iridescent colors, white room, smart blur",
+    "example 3": "A living room of a beautiful bright modern Scandinavian style house with large windows opening onto a swimming pool. The room is globally well illuminated and the photograph is taken with a Canon EOS 5D with a wide aperture lens set to F/8 and ISO set to 400.",
+    "example 4": "Portrait of Beautiful Hispanic Woman in her Late 20's with a serious look on her face::3 Her eyes are completely covered by a form fitting blindfold made of tightly knit intricate black lace::6 She has olive colored skin and long wavy dark hair",
+    "example 5": "young female wearing a flight suit on an alien landscape, pistol on her hip, wearing a large transparent helmet, Alberto Vargas, cinegraphic, photorealism, hyperdetailed, contrasty, rich color, watercolored pencil, telephoto",
+    "example 6": "mythology goddess Cernunnos made of azulejo’s white and blue, gothic, shiny, gold, Neoclassical, elegant, beauty, antique classical, shot photography by Wes Anderson, masterpiece, Canon50, Beautiful Lighting, Sad, highly detailed, detailed facial features, unreal engine, Octane Render, very detailed eyes, symmetrical eyes, mythology, hd",
+    "example 7": "a cloudy sky over a body of water,a photorealistic painting,by mark keathley,shutterstock contest winner,iphone video,whirlwind,armageddon,photo taken of an epic intricate,strange clouds,thom wasselmann,spinning whirlwind",
+    "example 8": "stunning beautiful exotic alien world National Geographic photograph, vivid",
+    "example 9": "a little girl making a carboard doll house with many rooms, colorful lighting",
+    "example 10": "this one guy told me 'eat your salad before it rots' so I went to the fridge, grabbed the lettuce salad, and started to put it on my freshly toasted bread with some mozzarela cheese and tomatoes",
+    "example 11" : "Portrait of Beautiful Hispanic Woman in her Late 20's with a serious look on her face::3 Her eyes are completely covered by a form fitting blindfold made of tightly knit intricate black lace::6 She has olive colored skin and long wavy dark hair"
+    }
+},
+[{
+		"Photography settings guide:": [
+			"Portrait photography – ISO100, f/8, 1/125.",
+			"Product photography – ISO200, f/2.2, 1/200.",
+			"Fashion photography – ISO100, f/2.8, 1/400.",
+			"Food photography – ISO100, f/2.8, 1/80.",
+			"Action photography – ISO1600, f/2.8, 1/500. (We used high ISO here but it might be somewhat controversial.",
+			"Studio Photography: This is really the short version and it doesn’t contain all the camera settings. However, not all cameras and lenses are created the same so make sure you check our recommended gear page to find the right gear for you. If you want to learn more about ideal camera settings for studio photography and other tricks for better photos keep reading this article. Camera settings for studio photography can change depending on many factors but we will talk about this later. For now, let’s see what types of studio photography are currently popular.",
+			"Portrait photography is the most common type of studio photography. All you need for this kind of photography is a person willing to pose for you. Of course, there are other things such as equipment, but we’ll talk about it later.",
+			"Also, the photos used in portrait photography are rarely used for making money. Since it isn’t commercial photography, the photos you’ve taken aren’t sold to anyone, at least not on your behalf. Portrait photography requires some serious dedication and knowledge to be done right. To avoid some common mistakes done by most portrait photographers check our Portrait Photography Tutorial to make sure you are doing portrait photography the right way.",
+			"Product Photography: Product photography is an umbrella term for photography where the photos are used for selling purposes. Simply put, this photography niche is all about commercial purposes. While it doesn’t have any particular standards for subjects, it’s very hard to pinpoint the exact settings that are best for it. A subject may be a car, a boat, some food or even a person!",
+			"These photos are usually used to promote or sell a product and these photos are often seen in advertisements or magazines. To be able to do such photography, you need to get a request from a customer, making it a bit hard to work with. Also, I suggest reading our list of the best websites to sell your photos.",
+			"FashionEditorial Photography: Are you reading a lot of magazine and newspapers? If so, you’ve already seen some photos that came from this industry. Fashion photography is all about illustrating what’s written in words. For example, if an article is about a new fashion trend, a photo should perfectly illustrate what’s been written. This kind of photography is a bit more complex since it needs to perfectly encapsulate the written word, yet try to invoke some kind of emotion in the reader.",
+			"You can think of editorial photography as of fashion photography, as they are almost the same.",
+			"Food Photography: Food photography is one of those photography niches that make our saliva run from our mouth. While it’s comfortable being around good and colorful food, it’s always important to capture the right details. Since many food photos appear in food blogs or even food magazines, it’s important that these photos scream quality.",
+			"If you get a perfect photo, you might get a bite or two… who knows?! Don’t leave this to luck. Read our 11 Useful Food Photography Tips for Beginners.",
+			"Action Photography: In the studio, you can shoot action shots as well! And you know what? These can be very good if you have a bit of experience. Action photography is all about capturing the moving subject at the perfect moment, which can sometimes be quite exhausting.",
+			"All you need is the will to experiment with your camera settings. The results can be fascinating!",
+			"What are the Ideal Camera Settings for Studio Photography?",
+			"Since you got properly introduced to studio photography, I think it’s time to see the best camera settings for each of them"
+		],
+		"detailed settings guide": {
+			"Photography settings guide": {
+				"Portrait photography": {
+					"ISO": 100,
+					"f_stop": 8,
+					"shutter_speed": 125,
+					"notes": "lower ISO settings like 100 or 200 to avoid grainy photos. Set the shutter speed to 1/125. For aperture settings, experiment with anywhere from f/8 to f/18."
+				},
+				"Product photography": {
+					"ISO": 200,
+					"f_stop": 2.2,
+					"shutter_speed": 200,
+					"notes": "Set your ISO anywhere between 200 and 400. The ideal shutter speed for this kind of photography doesn’t exist. However, a great option is to set it to 1/200 for the beginning. Using SLOWER shutter speeds like 1/60 or 1/30 isn’t a great option. When it comes to the aperture settings, use anything between f/1.8 and f/5.6."
+				},
+				"Fashion/Editorial Photography": {
+					"ISO": 100,
+					"f_stop": "2.8 - 8.0",
+					"shutter_speed": "1/400 - 1/800",
+					"notes": "Use lower ISO speeds like ISO100 or even ISO400, but don’t go higher than that. Use higher shutter speeds like 1/400 or 1/800. Anything higher than that will result in a blurry photo and that’s not what we want, especially in this photography niche. The aperture settings can differ, but not much. Ideally, you don’t want it to go over f/10 or under f/1.8."
+				},
+				"Food Photography": {
+					"ISO": 100,
+					"f_stop": "f/2.8",
+					"shutter_speed": 80,
+					"notes": "Set your ISO speed to 100. The shutter speed isn’t that important here, but using a bit lower speed is preferable. Aperture settings should include a lower F-stop number. Ideally, you want to keep it under f/3.5. Focal length should be 50mm to 100mm, depending on the distance. Don’t go too low with the flash power. Set it to half or even more."
+				},
+				"Action Photography": {
+					"ISO": "1600+",
+					"f_stop": "f/2.8 - f/5.6",
+					"shutter_speed": 500,
+					"notes": "To capture fast-moving targets, you should increase your ISO…drastically! Everything above ISO2000 will do great, depending on the light. In a studio, you can always have perfect lighting conditions, so you can use ISO1600 setting. As for the shutter speed, you must go high. Set your speed to 1/500 of a second. The ideal aperture setting is anywhere between f/2.8 to f/5.6."
+				}
+			},
+			"more details": "This is really the short version and it doesn’t contain all the camera settings. However, not all cameras and lenses are created the same so make sure you check our recommended gear page to find the right gear for you. If you want to learn more about ideal camera settings for studio photography and other tricks for better photos keep reading this article. Camera settings for studio photography can change depending on many factors but we will talk about this later. For now, let’s see what types of studio photography are currently popular.",
+			"types": {
+				"name": "Portrait photography",
+				"notes": "Portrait photography is the most common type of studio photography. All you need for this kind of photography is a person willing to pose for you. Of course, there are other things such as equipment, but we’ll talk about it later. Also, the photos used in portrait photography are rarely used for making money. Since it isn’t commercial photography, the photos you’ve taken aren’t sold to anyone, at least not on your behalf. Portrait photography requires some serious dedication and knowledge to be done right. To avoid some common mistakes done by most portrait photographers check our Portrait Photography Tutorial to make sure you are doing portrait photography the right way.",
+				"camera_settings": {
+					"mode": "Manual",
+					"ISO": "100-200",
+					"shutter_speed": "1/125-1/60",
+					"aperture": "f/8-f/11",
+					"focal_length ": " <= 200 mm ",
+					"flash_power": "half of camera's power or experiment"
+				}
+			},
+			"name": "Product photography ",
+			"notes": "Product photography is an umbrella term for photography where the photos are used for selling purposes. Simply put, this photography niche is all about commercial purposes. While it doesn’t have any particular standards for subjects, it’s very hard to pinpoint the exact settings that are best for it. A subject may be a car, a boat, some food or even a person! These photos are usually used to promote or sell a product and these photos are often seen in advertisements or magazines. To be able to do such photography, you need to get a request from a customer, making it a bit hard to work with. Also, I suggest reading our list of the best websites to sell your photos.",
+			"camera_settings": {
+				"mode ": "Manual ",
+				"ISO": "200-400",
+				"shutter_speed": "1/100-1/500",
+				"aperture": "f/1.8-f/5.6",
+				"focal_length": "<=200mm",
+				"flash_power": "half of camera's power or experiment"
+			}
+		},
+		"name": "Fashion/Editorial Photography",
+		"notes": "Editorial photography is one of the most lucrative photography niches. With that in mind, you need to know what settings to use in order to achieve the desired results. Remember – these photos are going to be in magazines and newspaper!",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "100-400",
+			"shutter_speed": "1/400-1/800",
+			"aperture": "f/1.8-f/10",
+			"focal_length": "<=200mm",
+			"flash_power": "half of camera's power or experiment"
+		}
+	},
+	{
+		"name": "Food Photography",
+		"notes": "In food photography, it’s all about those tiny details and angles. Snapping a food at a right angle is crucial, but those camera settings are more important. Let’s see what you should think about.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "100-200",
+			"shutter_speed": "1/80",
+			"aperture": "f/2.8-f/3.5",
+			"focal_length": "50mm-100mm",
+			"flash_power": "half or more"
+		}
+	},
+	{
+		"name": "Portrait Photography",
+		"notes": "In portrait photography, it’s all about the lighting. If the lighting is good, you’ll be able to get all of those facial details required to capture an award-winning photo.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "<=200",
+			"shutter_speed": "1/125 or 1/60 or 1/30",
+			"aperture": "f/8-f/18",
+			"focal_length": "<=200mm",
+			"flash_power": "half or experiment"
+		}
+	},
+	{
+		"name": "Product Photography",
+		"notes": "Commercial photography is where it starts to get a bit tricky. This is a versatile photography niche that requires different settings for different occasions. Let’s see what you should opt for.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "200-400",
+			"shutter_speed": "1/100-1/500",
+			"aperture": "f/1.8-f/5.6",
+			"focal_length": "<=200mm",
+			"flash_power": "half or less"
+		}
+	},
+	{
+		"name": "Action Photography",
+		"notes": "If you have to shoot a moving subject, especially a subject that’s moving at a high speed, your camera settings are going to be extremely different from the other studio photography types. This one requires different settings, which we’ll mention below.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": ">=2000",
+			"shutter_speed": "1/500",
+			"aperture": "f/2.8-f/5.6",
+			"focal_length": "<=300mm",
+			"flash_power": "half or experiment"
+		}
+	},
+	{
+		"name": "Tips and Tricks for Studio Photography",
+		"notes": [{
+				"title": "Use a diffuser",
+				"description": "It has a purpose that’s very important for indoor photographs and that’s evenly spreading the light. From there, we have two variants of diffusers – softbox and umbrella diffuser."
+			},
+			{
+				"title": "Softbox diffuser",
+				"description": "It’s usually the most used solution, producing the best results overall. It’s also quite bigger than an umbrella diffuser, but with much better light diffusion, thanks to a reflecting silver layer. On the contrary, this is a more expensive option and to put it to best use, you should have two of them."
+			},
+			{
+				"title ": "Umbrella diffuser ",
+				"description": "It's less robust, it’s easier to carry around, and still does a decent job. It works in a whole different way. The light is pointed towards the inner side of the umbrella, reflecting back of the inner side. Since the light has the freedom to “move” outside of the umbrella, the amount of light scattered is increased. You can, however, compensate for it by bringing it closer to the subject."
+			},
+			{
+				"title": "Use Remote Flash Triggers",
+				"description": "Many professional photographers use wireless flash triggers and for a reason. It’s much more reliable and decreases the chance of physical obstructions preventing it from working properly. Just connect your transmitter to the flash shoe on your camera and your receiver to the studio flash. Now you’re ready to go!"
+			},
+			{
+				"title": "Use Reflectors",
+				"description": "Having to shoot your photos without the reflector is like having to drink a hot beer. You can still drink it, but the taste is just awful. Reflectors are vastly used in studios around the world and they are here to brighten up the shadows. Furthermore, photographers use it to reflect the light onto the subject, which can also be a handy option. The main thing is that there are tons of different reflectors, varying in shape, size, and color. Still, buying a few of them shouldn’t be an expensive investment. And they are important for making the best use of the light."
+			},
+			{
+				"title": "Get the Right Lens",
+				"description": "If you have a DSLR or a mirrorless camera, swapping lenses is easier than saying “cheese”. Well, there are tons of lenses out there, each of them having a significant impact on the quality of your studio shots. For example, a wide-angle lens (20mm) is great for capturing a wide angle of view. On the contrary, there is a telephoto lens which can go up to 100mm, and this one captures a narrow field of view. But, what lens is perfect for studio photography? (On our website you can find lists of the best lenses for Nikon, Canon, Sony and Olympus cameras) In my experience, the best option is everything between 50mm and 200mm (check Recommended Gear page for all options depending on your camera brand). As you see it all depends on the studio photography type. For action photography, you need to go even higher 300mm or less. There is no ideal lens that you can buy it all depends on what type of studio photography you specialize in."
+			}
+		]
+	}
+],
+{
+  "weights": [
+    "If you wanted to describe on English a picture in NNN words on this topic 'TEXT', then what are the main details with their description.",
+    "And evaluate each word according to the importance of their presence in the picture in the format 'word:: 1-10', the total score can be from 1 to 10.",
+    "Describe in the format:'the tree::10, star::6 clusters::3, a green::2 bird::7, anime::5, flowers::1'",
+    "Assign the most important details in your opinion to 10, the most unimportant ones to 1, and distribute the rest in this range also in order of importance.",
+    "Leave only the details, do not send the description itself.",
+    "In response, do not add anything other than what I ask.",
+    "Distribute them as much as possible in the range from 1 to 10.",
+    "Write everything in lower case.",
+    "Anything further just add a comma:",
+    "If the theme means that something should not be or empty or without and etc. Mandatory '--' before 'no', also the parameter cannot have weight '::'. Only '--no' exists, there are no other options with '--'.",
+    "For example:",
+    "'no hat::5' -> '--no hat'",
+    "no background -> --no background",
+    "empty city -> --no people",
+    "no trees -> --no trees",
+    "without head -> --no head",
+    "flowerless -> --no flower",
+    "It can't be like this no trees::5, only like this --no trees",
+    "If in the description that you created a landscape described, then add landscape::5, many details::4, a lot of detail::5 at the end.",
+    "If the description you created describes a portrait then add focused::3, blured background::2, body::3, portrait::5 to the end.",
+    "If the description you created describes a full-length person, then add full body::4, legs::4, arms::4 to the end.",
+    "If something else, then nothing needs to be added.",
+    "If you are describing things that can have reflections, then add reflection::4.",
+    "If you describe things that are related to space, then add space::10, star clusters::10.",
+    "Very desirable. If one style suits the image better than others, write name::5. Example: cyberpunk::5. Style Types: Fantasy, Dark Fantasy, Abstraction, Ethereal, Weirdcore, Dreampunk, Daydreampunk, Science, Surrealism, Unrealistic, Surreal, Realistic, Photorealism, Classic, Retro, Retrowave, Vintage, Cyberpunk, Punk, Modern, Futuristic, Sci-fi, Alchemy, Alien, Aurora, Magic, Mystic, Marvel Comics, Anime, Cartoon, Manga, Kawaii, Pastel, Neon, Aesthetic, Miniature.",
+    "Very desirable. If some lighting suits the image better than others, write name::5. Example: neon light::5. Light Types: Spot Lighting, Rear light, Dark Light, Blinding Light, Candle Light, Concentrated Lighting, Twilight, Sunshine, Sunset, Lamp, Electric Arc, Moonlight, Neon Light, Night Light, Nuclear Light, Cinematic Light or similar",
+    "If something goes wrong. You don't need to report it, just ignore it.",
+    "At the end your answer should look something like this: plain meadow::4 clear sky::3 small rock::2 landscape::5 many details::4 --no flowers --no trees"
+  ]
+}
+]
+
+

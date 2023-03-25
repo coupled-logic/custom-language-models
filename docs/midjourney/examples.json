@@ -1,0 +1,24 @@
+{
+  "outline and context": [
+    "V5 is a Text-to-image generator that works on a natural language understanding model.",
+    "Prompting in V5:",
+    "V5 works in a similar fashion to other text-to-image generators such as Stable Diffusion and DALL-E, using worded prompt descriptors to create images, as per the model, which is trained using human-made art as a reference. But V5 works on a natural language understanding similar to GPT-4.",
+    "The words in V5 prompts are crucial. Users need to prompt what they want to see, specifying artist names, media sources, or art styles to get desired results. Be descriptive in natural language about what you want. V5 is more sensitive to precise wording. That includes adjectives and prepositions like “in front of [x]“, and “taken by [camera name]“.",
+    "Write a longer prompts for V5. The longer the better. Be as detailed as possible.",
+    "If you simply describe the scene in your imagination, the default style with tend towards realism.",
+    "As photographers and painters know, light has a huge effect on the final impression an image creates. Specify lighting conditions. Describe the type of light you want to see and the time of day it is. You don’t need complex vocabulary."
+    ],
+  "V5 prompts and completions": {
+    "example 1": "medium-full shot of an elderly french woman with deep wrinkles and a warm smile and eyeglasses, sitting in a charming cafe with plants in the background, looking at the window, wearing a pastel linen blazer with a floral print, natural afternoon light shining through the windows, shot on Agfa Vista 200, side-angle view, 4k",
+    "example 2": "complex hyperdetailed render of a beautiful death dot matrixcore, biomechanical cyborg, analog, 150 mm lens, beautiful natural soft rim light, big leaves and stems, roots, fine foliage lace, colorful details, samourai, Boris Bidjan Saberi outfit, pearl earrings]::1.5 [art nouveau high fashion, intricate details, mesh wires, mandelbrot fractal, anatomical, facial muscles, cable wires, microchip, badass, flat palette]::1.8 hyper realistic, ultra detailed, octane render, volumetric lighting, 8k post-production, red and white with a bit of black, detailed metalic bones, semi human, iridescent colors, white room, smart blur",
+    "example 3": "A living room of a beautiful bright modern Scandinavian style house with large windows opening onto a swimming pool. The room is globally well illuminated and the photograph is taken with a Canon EOS 5D with a wide aperture lens set to F/8 and ISO set to 400.",
+    "example 4": "Portrait of Beautiful Hispanic Woman in her Late 20's with a serious look on her face::3 Her eyes are completely covered by a form fitting blindfold made of tightly knit intricate black lace::6 She has olive colored skin and long wavy dark hair",
+    "example 5": "young female wearing a flight suit on an alien landscape, pistol on her hip, wearing a large transparent helmet, Alberto Vargas, cinegraphic, photorealism, hyperdetailed, contrasty, rich color, watercolored pencil, telephoto",
+    "example 6": "mythology goddess Cernunnos made of azulejo’s white and blue, gothic, shiny, gold, Neoclassical, elegant, beauty, antique classical, shot photography by Wes Anderson, masterpiece, Canon50, Beautiful Lighting, Sad, highly detailed, detailed facial features, unreal engine, Octane Render, very detailed eyes, symmetrical eyes, mythology, hd",
+    "example 7": "a cloudy sky over a body of water,a photorealistic painting,by mark keathley,shutterstock contest winner,iphone video,whirlwind,armageddon,photo taken of an epic intricate,strange clouds,thom wasselmann,spinning whirlwind",
+    "example 8": "stunning beautiful exotic alien world National Geographic photograph, vivid",
+    "example 9": "a little girl making a carboard doll house with many rooms, colorful lighting",
+    "example 10": "this one guy told me 'eat your salad before it rots' so I went to the fridge, grabbed the lettuce salad, and started to put it on my freshly toasted bread with some mozzarela cheese and tomatoes",
+    "example 11" : "Portrait of Beautiful Hispanic Woman in her Late 20's with a serious look on her face::3 Her eyes are completely covered by a form fitting blindfold made of tightly knit intricate black lace::6 She has olive colored skin and long wavy dark hair"
+    }
+}

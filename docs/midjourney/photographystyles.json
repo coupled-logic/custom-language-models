@@ -1,0 +1,166 @@
+[{
+		"Photography settings guide:": [
+			"Portrait photography – ISO100, f/8, 1/125.",
+			"Product photography – ISO200, f/2.2, 1/200.",
+			"Fashion photography – ISO100, f/2.8, 1/400.",
+			"Food photography – ISO100, f/2.8, 1/80.",
+			"Action photography – ISO1600, f/2.8, 1/500. (We used high ISO here but it might be somewhat controversial.",
+			"Studio Photography: This is really the short version and it doesn’t contain all the camera settings. However, not all cameras and lenses are created the same so make sure you check our recommended gear page to find the right gear for you. If you want to learn more about ideal camera settings for studio photography and other tricks for better photos keep reading this article. Camera settings for studio photography can change depending on many factors but we will talk about this later. For now, let’s see what types of studio photography are currently popular.",
+			"Portrait photography is the most common type of studio photography. All you need for this kind of photography is a person willing to pose for you. Of course, there are other things such as equipment, but we’ll talk about it later.",
+			"Also, the photos used in portrait photography are rarely used for making money. Since it isn’t commercial photography, the photos you’ve taken aren’t sold to anyone, at least not on your behalf. Portrait photography requires some serious dedication and knowledge to be done right. To avoid some common mistakes done by most portrait photographers check our Portrait Photography Tutorial to make sure you are doing portrait photography the right way.",
+			"Product Photography: Product photography is an umbrella term for photography where the photos are used for selling purposes. Simply put, this photography niche is all about commercial purposes. While it doesn’t have any particular standards for subjects, it’s very hard to pinpoint the exact settings that are best for it. A subject may be a car, a boat, some food or even a person!",
+			"These photos are usually used to promote or sell a product and these photos are often seen in advertisements or magazines. To be able to do such photography, you need to get a request from a customer, making it a bit hard to work with. Also, I suggest reading our list of the best websites to sell your photos.",
+			"FashionEditorial Photography: Are you reading a lot of magazine and newspapers? If so, you’ve already seen some photos that came from this industry. Fashion photography is all about illustrating what’s written in words. For example, if an article is about a new fashion trend, a photo should perfectly illustrate what’s been written. This kind of photography is a bit more complex since it needs to perfectly encapsulate the written word, yet try to invoke some kind of emotion in the reader.",
+			"You can think of editorial photography as of fashion photography, as they are almost the same.",
+			"Food Photography: Food photography is one of those photography niches that make our saliva run from our mouth. While it’s comfortable being around good and colorful food, it’s always important to capture the right details. Since many food photos appear in food blogs or even food magazines, it’s important that these photos scream quality.",
+			"If you get a perfect photo, you might get a bite or two… who knows?! Don’t leave this to luck. Read our 11 Useful Food Photography Tips for Beginners.",
+			"Action Photography: In the studio, you can shoot action shots as well! And you know what? These can be very good if you have a bit of experience. Action photography is all about capturing the moving subject at the perfect moment, which can sometimes be quite exhausting.",
+			"All you need is the will to experiment with your camera settings. The results can be fascinating!",
+			"What are the Ideal Camera Settings for Studio Photography?",
+			"Since you got properly introduced to studio photography, I think it’s time to see the best camera settings for each of them"
+		],
+		"detailed settings guide": {
+			"Photography settings guide": {
+				"Portrait photography": {
+					"ISO": 100,
+					"f_stop": 8,
+					"shutter_speed": 125,
+					"notes": "lower ISO settings like 100 or 200 to avoid grainy photos. Set the shutter speed to 1/125. For aperture settings, experiment with anywhere from f/8 to f/18."
+				},
+				"Product photography": {
+					"ISO": 200,
+					"f_stop": 2.2,
+					"shutter_speed": 200,
+					"notes": "Set your ISO anywhere between 200 and 400. The ideal shutter speed for this kind of photography doesn’t exist. However, a great option is to set it to 1/200 for the beginning. Using SLOWER shutter speeds like 1/60 or 1/30 isn’t a great option. When it comes to the aperture settings, use anything between f/1.8 and f/5.6."
+				},
+				"Fashion/Editorial Photography": {
+					"ISO": 100,
+					"f_stop": "2.8 - 8.0",
+					"shutter_speed": "1/400 - 1/800",
+					"notes": "Use lower ISO speeds like ISO100 or even ISO400, but don’t go higher than that. Use higher shutter speeds like 1/400 or 1/800. Anything higher than that will result in a blurry photo and that’s not what we want, especially in this photography niche. The aperture settings can differ, but not much. Ideally, you don’t want it to go over f/10 or under f/1.8."
+				},
+				"Food Photography": {
+					"ISO": 100,
+					"f_stop": "f/2.8",
+					"shutter_speed": 80,
+					"notes": "Set your ISO speed to 100. The shutter speed isn’t that important here, but using a bit lower speed is preferable. Aperture settings should include a lower F-stop number. Ideally, you want to keep it under f/3.5. Focal length should be 50mm to 100mm, depending on the distance. Don’t go too low with the flash power. Set it to half or even more."
+				},
+				"Action Photography": {
+					"ISO": "1600+",
+					"f_stop": "f/2.8 - f/5.6",
+					"shutter_speed": 500,
+					"notes": "To capture fast-moving targets, you should increase your ISO…drastically! Everything above ISO2000 will do great, depending on the light. In a studio, you can always have perfect lighting conditions, so you can use ISO1600 setting. As for the shutter speed, you must go high. Set your speed to 1/500 of a second. The ideal aperture setting is anywhere between f/2.8 to f/5.6."
+				}
+			},
+			"more details": "This is really the short version and it doesn’t contain all the camera settings. However, not all cameras and lenses are created the same so make sure you check our recommended gear page to find the right gear for you. If you want to learn more about ideal camera settings for studio photography and other tricks for better photos keep reading this article. Camera settings for studio photography can change depending on many factors but we will talk about this later. For now, let’s see what types of studio photography are currently popular.",
+			"types": {
+				"name": "Portrait photography",
+				"notes": "Portrait photography is the most common type of studio photography. All you need for this kind of photography is a person willing to pose for you. Of course, there are other things such as equipment, but we’ll talk about it later. Also, the photos used in portrait photography are rarely used for making money. Since it isn’t commercial photography, the photos you’ve taken aren’t sold to anyone, at least not on your behalf. Portrait photography requires some serious dedication and knowledge to be done right. To avoid some common mistakes done by most portrait photographers check our Portrait Photography Tutorial to make sure you are doing portrait photography the right way.",
+				"camera_settings": {
+					"mode": "Manual",
+					"ISO": "100-200",
+					"shutter_speed": "1/125-1/60",
+					"aperture": "f/8-f/11",
+					"focal_length ": " <= 200 mm ",
+					"flash_power": "half of camera's power or experiment"
+				}
+			},
+			"name": "Product photography ",
+			"notes": "Product photography is an umbrella term for photography where the photos are used for selling purposes. Simply put, this photography niche is all about commercial purposes. While it doesn’t have any particular standards for subjects, it’s very hard to pinpoint the exact settings that are best for it. A subject may be a car, a boat, some food or even a person! These photos are usually used to promote or sell a product and these photos are often seen in advertisements or magazines. To be able to do such photography, you need to get a request from a customer, making it a bit hard to work with. Also, I suggest reading our list of the best websites to sell your photos.",
+			"camera_settings": {
+				"mode ": "Manual ",
+				"ISO": "200-400",
+				"shutter_speed": "1/100-1/500",
+				"aperture": "f/1.8-f/5.6",
+				"focal_length": "<=200mm",
+				"flash_power": "half of camera's power or experiment"
+			}
+		},
+		"name": "Fashion/Editorial Photography",
+		"notes": "Editorial photography is one of the most lucrative photography niches. With that in mind, you need to know what settings to use in order to achieve the desired results. Remember – these photos are going to be in magazines and newspaper!",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "100-400",
+			"shutter_speed": "1/400-1/800",
+			"aperture": "f/1.8-f/10",
+			"focal_length": "<=200mm",
+			"flash_power": "half of camera's power or experiment"
+		}
+	},
+	{
+		"name": "Food Photography",
+		"notes": "In food photography, it’s all about those tiny details and angles. Snapping a food at a right angle is crucial, but those camera settings are more important. Let’s see what you should think about.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "100-200",
+			"shutter_speed": "1/80",
+			"aperture": "f/2.8-f/3.5",
+			"focal_length": "50mm-100mm",
+			"flash_power": "half or more"
+		}
+	},
+	{
+		"name": "Portrait Photography",
+		"notes": "In portrait photography, it’s all about the lighting. If the lighting is good, you’ll be able to get all of those facial details required to capture an award-winning photo.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "<=200",
+			"shutter_speed": "1/125 or 1/60 or 1/30",
+			"aperture": "f/8-f/18",
+			"focal_length": "<=200mm",
+			"flash_power": "half or experiment"
+		}
+	},
+	{
+		"name": "Product Photography",
+		"notes": "Commercial photography is where it starts to get a bit tricky. This is a versatile photography niche that requires different settings for different occasions. Let’s see what you should opt for.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": "200-400",
+			"shutter_speed": "1/100-1/500",
+			"aperture": "f/1.8-f/5.6",
+			"focal_length": "<=200mm",
+			"flash_power": "half or less"
+		}
+	},
+	{
+		"name": "Action Photography",
+		"notes": "If you have to shoot a moving subject, especially a subject that’s moving at a high speed, your camera settings are going to be extremely different from the other studio photography types. This one requires different settings, which we’ll mention below.",
+		"camera_settings": {
+			"mode": "Manual",
+			"ISO": ">=2000",
+			"shutter_speed": "1/500",
+			"aperture": "f/2.8-f/5.6",
+			"focal_length": "<=300mm",
+			"flash_power": "half or experiment"
+		}
+	},
+	{
+		"name": "Tips and Tricks for Studio Photography",
+		"notes": [{
+				"title": "Use a diffuser",
+				"description": "It has a purpose that’s very important for indoor photographs and that’s evenly spreading the light. From there, we have two variants of diffusers – softbox and umbrella diffuser."
+			},
+			{
+				"title": "Softbox diffuser",
+				"description": "It’s usually the most used solution, producing the best results overall. It’s also quite bigger than an umbrella diffuser, but with much better light diffusion, thanks to a reflecting silver layer. On the contrary, this is a more expensive option and to put it to best use, you should have two of them."
+			},
+			{
+				"title ": "Umbrella diffuser ",
+				"description": "It's less robust, it’s easier to carry around, and still does a decent job. It works in a whole different way. The light is pointed towards the inner side of the umbrella, reflecting back of the inner side. Since the light has the freedom to “move” outside of the umbrella, the amount of light scattered is increased. You can, however, compensate for it by bringing it closer to the subject."
+			},
+			{
+				"title": "Use Remote Flash Triggers",
+				"description": "Many professional photographers use wireless flash triggers and for a reason. It’s much more reliable and decreases the chance of physical obstructions preventing it from working properly. Just connect your transmitter to the flash shoe on your camera and your receiver to the studio flash. Now you’re ready to go!"
+			},
+			{
+				"title": "Use Reflectors",
+				"description": "Having to shoot your photos without the reflector is like having to drink a hot beer. You can still drink it, but the taste is just awful. Reflectors are vastly used in studios around the world and they are here to brighten up the shadows. Furthermore, photographers use it to reflect the light onto the subject, which can also be a handy option. The main thing is that there are tons of different reflectors, varying in shape, size, and color. Still, buying a few of them shouldn’t be an expensive investment. And they are important for making the best use of the light."
+			},
+			{
+				"title": "Get the Right Lens",
+				"description": "If you have a DSLR or a mirrorless camera, swapping lenses is easier than saying “cheese”. Well, there are tons of lenses out there, each of them having a significant impact on the quality of your studio shots. For example, a wide-angle lens (20mm) is great for capturing a wide angle of view. On the contrary, there is a telephoto lens which can go up to 100mm, and this one captures a narrow field of view. But, what lens is perfect for studio photography? (On our website you can find lists of the best lenses for Nikon, Canon, Sony and Olympus cameras) In my experience, the best option is everything between 50mm and 200mm (check Recommended Gear page for all options depending on your camera brand). As you see it all depends on the studio photography type. For action photography, you need to go even higher 300mm or less. There is no ideal lens that you can buy it all depends on what type of studio photography you specialize in."
+			}
+		]
+	}
+]
